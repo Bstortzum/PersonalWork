@@ -106,7 +106,7 @@ void inputData(vector<Employees>& empVec)
 // This function display the title
 void displayTitle()
 {
-    cout << "IS-241 Lab 5 – C-Strings and Embedded Structures\n";
+    cout << "IS-241 Lab 5 â€“ C-Strings and Embedded Structures\n";
     cout << "This program reads in an employee file and displays the file in sorted order by last name.\n\n";
 }
 
